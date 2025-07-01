@@ -1,0 +1,3 @@
+The following command starts a pm2 service from a static website such as this one. No need to build a full node project:
+
+$ pm2 serve . 8092 --name lukacupic
